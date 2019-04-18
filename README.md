@@ -14,7 +14,8 @@ https://play.google.com/store/apps/details?id=com.Teamlkjh.AppleRingVer1&hl=ko
 1. Unity Ads
 2. Unity IAP
 3. Google Leaderboard
-4. 모든 캐릭터들의 핵심 로직
-5. UI
-6. 애니메이션
-7. 최적화
+4. 게임 진행 플로우
+5. 모든 캐릭터들의 핵심 로직
+6. UI/사운드
+7. 애니메이션
+8. 최적화
