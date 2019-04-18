@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Languages>
+  <English>
+    <string name= "gameStart">GameStart</string>
+    <string name="optionButton">Option</string>
+    <string name="exitButton">Exit</string>
+    <string name="tutorialButton">Detective's journal</string>
+    <string name="RankingButton">Ranking</string>
+    <string name="ShopButton">Shop</string>
+    <string name="horizontalSensitivity">Sensitivity</string>
+    <string name="verticalThreshold">Clamp Vertical Rotation</string>
+    <string name="bgm">BGM Volume</string>
+    <string name="effect">Effect Volume</string>
+    <string name="skipButton">Would you like to skip it?</string>
+    <string name="reStart">Restart</string>
+    <string name="GoToMain">GoToTitle</string>
+    <string name="continues">Continue</string>
+    <string name="removeAds">Remove Advertisement</string>
+    <string name="removeAdsDescription">Remove ads to quickly continue.</string>
+    <string name="logInError">The ranking system
+    requires a Google login.</string>
+    <string name="yes">Yes</string>
+    <string name="timeAttack">Time Attack</string>
+    <string name="SwirlMansion">Swirl Mansion </string>
+    <string name="thelastsupper">The last supper</string>
+    <string name="deerHunter">Deer Hunter</string>
+    <string name="exhibitionA">Exhibition A</string>
+    <string name="exhibitionB">Exhibition B</string>
+    <string name="silence">The Quiet Place</string>
+    <string name="silenceDescription">
+A quiet place is
+a theme designed for you to play easily.
+Enjoy meals, hiking, and watching.
+In this quiet place, interfering with your leisure time is
+There are only a few of them.</string>
+    <string name="timeAttackDescription">
+Time Attack is
+A lot of people who've been to the mansion
+It's a theme that competes with clear time.
+If you do enough research,
+You will be inducted into the Hall of Fame.</string>
+    <string name="swirlMansionDescription">
+Welcome to the Swirl Mansion.
+They'll give you the heartless.
+If it's possible to treat them here as subjects,
+You will be a living legend among them.</string>
+    <string name="meal">Meal</string>
+    <string name="stroll">Stroll</string>
+    <string name="watch">Watch</string>
+    <string name="postdinner">Post-dinner</string>
+    <string name="mutationDescription">
+Did you notice their change?
+It's just beginning.</string>
+    <string name="mutation">Mutation Mansion</string>
+    <string name="extremeLock">
+If you clear the hard mode
+without 'Continue', it opens.</string>
+    <string name="exitDescription">Are you trying to run away?</string>
+    <string name="no">No</string>
+  </English>
+  <Korean>
+    <string name="gameStart">게임 시작</string>
+    <string name ="optionButton">설정</string>
+    <string name="exitButton">게임 종료</string>
+    <string name="tutorialButton">탐정의 일지</string>
+    <string name="RankingButton">랭킹</string>
+    <string name="ShopButton">상점</string>
+    <string name="horizontalSensitivity">회전 감도</string>
+    <string name="verticalThreshold">상하 회전
+최대 각도</string>
+    <string name="bgm">배경음</string>
+    <string name="effect">효과음</string>
+    <string name="skipButton">스킵 하시겠습니까?</string>
+    <string name="reStart">재시작</string>
+    <string name="GoToMain">타이틀로</string>
+    <string name="continues">이어하기</string>
+    <string name="removeAds">광고 제거</string>
+    <string name="removeAdsDescription">광고를 제거하여 빠른 이어하기가 가능합니다.</string>
+    <string name="logInError">랭킹 시스템은
+    구글 로그인이 필요합니다.</string>
+    <string name="yes">확인</string>
+    <string name="timeAttack">타임 어택</string>
+    <string name="SwirlMansion">소용돌이 저택</string>
+    <string name="thelastsupper">최후의 만찬</string>
+    <string name="deerHunter">디어 헌터</string>
+    <string name="exhibitionA">전람회 A</string>
+    <string name="exhibitionB">전람회 B</string>
+    <string name="silence">한적한 곳</string>
+    <string name="silenceDescription">
+한적한 곳은
+쉽게 플레이하실 수 있게 제작된 테마입니다.
+식사,산책,그리고 관람을 즐기세요.
+이 한적한 곳에서 당신의 여가를 방해하는것은
+오로지 약간의 배회자뿐 입니다.</string>
+    <string name="timeAttackDescription">
+타임어택은
+저택에 방문했던 수많은 사람들과
+클리어 시간으로 경쟁하는 테마입니다.
+충분히 연구한다면,
+당신은 명예의 전당에 오를 것입니다.</string>
+    <string name="swirlMansionDescription">
+소용돌이 저택에 오신 것을 환영합니다.
+배회자들은 당신에게 무자비를 선사할 것입니다.
+이곳에서 그들을 피사체 따위로 취급하는게 가능하다면,
+당신은 배회자들 사이에서 전설로 통할 것 입니다.</string>
+    <string name="meal">식사</string>
+    <string name="stroll">산책</string>
+    <string name="watch">관람</string>
+    <string name="postdinner">식후경</string>
+    <string name="mutationDescription">
+그들의 변화를 눈치채셨나요?
+이것은 시작에 불과합니다.</string>
+    <string name="mutation">돌연변이 저택</string>
+  <string name="extremeLock">
+이어하기를 사용하지 않고
+Hard 난이도를 클리어하면 개방됩니다.</string>
+    <string name="exitDescription">정말 나가시겠습니까?</string>
+    <string name="no">아니오</string>
+  </Korean>
+</Languages>

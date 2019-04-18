@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ITEM
+  - Enemy
+  - RunnerGameOver
+  - StunItem
+  - Room
+  - WatchSpawnPosition
+  - Searcher
+  - PlayerObject
+  - PotionRoom
+  - PotionSpawnPoint
+  - Potion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - PlayerMarker
+  - Obstacle
+  - Targets
+  - NoMinimap
+  - ITEM
+  - Exit
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

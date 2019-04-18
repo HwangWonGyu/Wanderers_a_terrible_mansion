@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SpriteAtlasTest1
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9f0edeb85a6d509479e86b6a633dc4d1, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7a636ba6b44df54f99f365313fc89df, type: 3}
+  - {fileID: 21300000, guid: 31dd34cf87d70a24c914842cfe566f6e, type: 3}
+  - {fileID: 21300000, guid: 68db8861bc4c93c45901828e0bb16245, type: 3}
+  - {fileID: 21300000, guid: e247514d2f9c3d6448cb4def4987bede, type: 3}
+  - {fileID: 21300000, guid: f837f9cefcd77b747bc65dc1b72ae995, type: 3}
+  - {fileID: 21300000, guid: 94556711291fec94d8b29bb092a4b39d, type: 3}
+  - {fileID: 21300000, guid: 54606dea97b5df944939d4b51c99d2f5, type: 3}
+  - {fileID: 21300000, guid: 56f515e3bf6024a4bb020fb5f481ad75, type: 3}
+  - {fileID: 21300000, guid: 84a58b4f48141f4469d38f5b5725e624, type: 3}
+  - {fileID: 21300000, guid: e683fd92265a8a24b9113f4112989b3f, type: 3}
+  - {fileID: 21300000, guid: 4aad585d7972b484782178cbac5d0d6e, type: 3}
+  - {fileID: 21300000, guid: 2d92507c50a3b7c4c80fb448c6d5efb5, type: 3}
+  - {fileID: 21300000, guid: 2c6e8f7af6e77684399d439e96611b44, type: 3}
+  - {fileID: 21300000, guid: 5d6b4f91c36796145bb537cfbfb9e655, type: 3}
+  - {fileID: 21300000, guid: 5fee09e198fc66f449e5e4136f562e69, type: 3}
+  - {fileID: 21300000, guid: 63135b1ed208bec4d92a7350d6d739c6, type: 3}
+  - {fileID: 21300000, guid: 719c9b545d0a0444c9d57b4b7d62139a, type: 3}
+  - {fileID: 21300000, guid: 250eb90909118244593f82c67033c685, type: 3}
+  - {fileID: 21300000, guid: b1cc29fed62ce3846ae52889d6dece41, type: 3}
+  - {fileID: 21300000, guid: 575e3070c0e740f4d9b63dc4e08a33d5, type: 3}
+  - {fileID: 21300000, guid: deb8915578622dd428fc37f6b6a5ff81, type: 3}
+  - {fileID: 21300000, guid: cd1db63d20039b54580c69557d2a1ffb, type: 3}
+  - {fileID: 21300000, guid: cf5e606453c56534ab1924187c129657, type: 3}
+  - {fileID: 21300000, guid: 98540a1785cc9b643a578713a5cbee2e, type: 3}
+  - {fileID: 21300000, guid: d719304b36b524248a68206409fc32ec, type: 3}
+  - {fileID: 21300000, guid: 7812d22a87c751d4386c371b827a6480, type: 3}
+  - {fileID: 21300000, guid: 0ea19afd0f8f22142b5235de41c327cf, type: 3}
+  - {fileID: 21300000, guid: f86bed90194817646a357d8ebd367bcd, type: 3}
+  - {fileID: 21300000, guid: 1088456fb29aa794d804950adf7f373d, type: 3}
+  - {fileID: 21300000, guid: 7862a4962a70520439f3fb3f200e6b62, type: 3}
+  - {fileID: 21300000, guid: e1f4c8989466e6b4586abd2542e3a3bd, type: 3}
+  - {fileID: 21300000, guid: 2ce8e32f9316b43488f49217ad73ea43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - JoyStickInside
+  - JoyStickFrame
+  - GameoverImage
+  - Run_On 1
+  - Run_Off
+  - frame_edit
+  - Button
+  - Sit_On
+  - PocketWatch_ON
+  - PocketWatch_OFF
+  - Sit_Off
+  - MiniMap_PotionUI
+  - Item_PocketWatch_Icon copy
+  - Item_Potion_ON
+  - Item_Potion_OFF
+  - StaminaIcon
+  - WButton_Small_Market
+  - WButton_Small_Lock
+  - WButton_Small_Menu
+  - UI_Mnmap_Door_ver2
+  - UI_Mnmap_Player copy
+  - WButton_Small_Next
+  - WButton_Small_QuestionMark
+  - WButton_Small_Back
+  - WButton_Small_UnLock
+  - WButton_Small_X
+  - WButton_Small_FastForward
+  - StaminaFrame2
+  - StaminaValue2
+  - Item_Paper
+  - Click_Conversation01
+  - Click_Conversation02
+  m_Tag: SpriteAtlasTest1
+  m_IsVariant: 0
