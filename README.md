@@ -1,6 +1,7 @@
 배회자들 : 무시무시한 저택 (Android)
 =============
 
+![wanderers](https://user-images.githubusercontent.com/15853498/56340029-8d756280-61eb-11e9-98cd-16eab47effdb.png)
 
 ## 플레이스토어 URL
 https://play.google.com/store/apps/details?id=com.Teamlkjh.AppleRingVer1&hl=ko
