@@ -9,4 +9,10 @@ https://play.google.com/store/apps/details?id=com.Teamlkjh.AppleRingVer1&hl=ko
 2018.11.01 ~ 11.30
 
 ## 내가 진행한 부분
-Unity Ads, Unity IAP, Google Leaderboard, UI, 모든 캐릭터들의 핵심 로직, 최적화
+1. Unity Ads
+2. Unity IAP
+3. Google Leaderboard
+4. 모든 캐릭터들의 핵심 로직
+5. UI
+6. 애니메이션
+7. 최적화
