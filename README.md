@@ -1,5 +1,6 @@
 배회자들 : 무시무시한 저택 (Android)
 =============
+> 3D 팩맨 컨셉 공포게임
 
 ![wanderers](https://user-images.githubusercontent.com/15853498/56340029-8d756280-61eb-11e9-98cd-16eab47effdb.png)
 
